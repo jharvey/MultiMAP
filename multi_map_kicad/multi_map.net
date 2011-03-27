@@ -1,0 +1,703 @@
+# EESchema Netlist Version 1.1 created  4/5/2010-01:35:35
+(
+ ( 4BDF787F sil-2  P3 CONN_2 {Lib=CONN_2}
+  (    1 +5v_1 )
+  (    2 VBAT_1 )
+ )
+ ( 4BD78141 sil-2  P2 CONN_2 {Lib=CONN_2}
+  (    1 +10v_1 )
+  (    2 +5v_1 )
+ )
+ ( 4B9E01E8 SO8E  U17 TL082CN {Lib=LM393}
+  (    1 OP-_1 )
+  (    2 OP-_1 )
+  (    3 OP+_1 )
+  (    4 GND )
+  (    8 +10v_1 )
+ )
+ ( 4B9C3FF2 SM0805-C1  C8 470pf {Lib=C}
+  (    1 MAP4_1 )
+  (    2 GND )
+ )
+ ( 4B9BDF90 SM0805-C1  C13 .02uf {Lib=C}
+  (    1 +5v_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFFB SM0805-C1  C26 470pf {Lib=C}
+  (    1 MAPB_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFF9 SM0805-C1  C24 470pf {Lib=C}
+  (    1 MAP12_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFF6 SM0805-C1  C22 470pf {Lib=C}
+  (    1 MAP11_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFF3 SM0805-C1  C20 470pf {Lib=C}
+  (    1 MAP10_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFE9 SM0805-C1  C18 470pf {Lib=C}
+  (    1 MAP9_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFE5 SM0805-C1  C16 470pf {Lib=C}
+  (    1 MAP8_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFE3 SM0805-C1  C14 470pf {Lib=C}
+  (    1 MAP7_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFDA SM0805-C1  C12 470pf {Lib=C}
+  (    1 MAP6_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFD6 SM0805-C1  C10 470pf {Lib=C}
+  (    1 MAP5_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFD3 SM0805-C1  C4 470pf {Lib=C}
+  (    1 MAP2_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFD0 SM0805-C1  C6 470pf {Lib=C}
+  (    1 MAP3_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFCC SM0805-C1  C2 470pf {Lib=C}
+  (    1 MAP1_1 )
+  (    2 GND )
+ )
+ ( 4B9BDFA5 SM0805-C1  C25 .02uf {Lib=C}
+  (    1 +5v_1 )
+  (    2 GND )
+ )
+ ( 4B9BDF9E SM0805-C1  C21 .02uf {Lib=C}
+  (    1 +5v_1 )
+  (    2 GND )
+ )
+ ( 4B9BDF97 SM0805-C1  C17 .02uf {Lib=C}
+  (    1 +5v_1 )
+  (    2 GND )
+ )
+ ( 4B9BDF88 SM0805-C1  C9 .02uf {Lib=C}
+  (    1 +5v_1 )
+  (    2 GND )
+ )
+ ( 4B9BDF80 SM0805-C1  C5 .02uf {Lib=C}
+  (    1 +5v_1 )
+  (    2 GND )
+ )
+ ( 4B9BDD79 D4-SMB  D1 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP1_1 )
+ )
+ ( 4B9BDD75 D4-SMB  D2 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP2_1 )
+ )
+ ( 4B9BDD72 D4-SMB  D3 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP3_1 )
+ )
+ ( 4B9BDD68 D4-SMB  D4 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP4_1 )
+ )
+ ( 4B9BDD64 D4-SMB  D5 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP5_1 )
+ )
+ ( 4B9BDD60 D4-SMB  D6 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP6_1 )
+ )
+ ( 4B9BDD5D D4-SMB  D7 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP7_1 )
+ )
+ ( 4B9BDD59 D4-SMB  D8 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP8_1 )
+ )
+ ( 4B9BDD55 D4-SMB  D9 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP9_1 )
+ )
+ ( 4B9BDD47 D4-SMB  D10 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP10_1 )
+ )
+ ( 4B9BDD42 D4-SMB  D11 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP11_1 )
+ )
+ ( 4B9BDD35 D4-SMB  D13 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 OP+_1 )
+ )
+ ( 4B9B9757 SM0805-C1  C28 10uf {Lib=C}
+  (    1 +10v_1 )
+  (    2 GND )
+ )
+ ( 4B9B9756 SM0805-C1  C29 -uf {Lib=C}
+  (    1 +10v_1 )
+  (    2 GND )
+ )
+ ( 4B9B949F SM0805-C1  C33 10uf {Lib=C}
+  (    1 N-000006 )
+  (    2 N-000007 )
+ )
+ ( 4B9B9480 SM0805-C1  C32 -uf {Lib=C}
+  (    1 N-000006 )
+  (    2 N-000007 )
+ )
+ ( 4B9B946F SOT23-5  U16 MAX1682 {Lib=MAX1682}
+  (    1 GND )
+  (    2 +10v_1 )
+  (    3 N-000007 )
+  (    4 +5v_1 )
+  (    5 N-000006 )
+ )
+ ( 4B9B9190 SIL-5  P1 CONN_5 {Lib=CONN_5}
+  (    1 MAPB_1 )
+  (    2 OP-_1 )
+  (    3 GND )
+  (    4 VBAT_1 )
+  (    5 +5v_1 )
+ )
+ ( 4B9B6675 R4-SM0805  R3 2k {Lib=R}
+  (    1 GND )
+  (    2 OP-_1 )
+ )
+ ( 4B9B6652 SM0805-C1  C31 100pf {Lib=C}
+  (    1 OP-_1 )
+  (    2 GND )
+ )
+ ( 4B9B61FB MPX-4_MAP_2  U13 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAPB_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61F7 MPX-4_MAP  U12 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP12_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61F3 MPX-4_MAP_2  U11 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP11_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61EF MPX-4_MAP  U10 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP10_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61EB MPX-4_MAP_2  U9 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP9_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61E4 MPX-4_MAP  U8 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP8_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61E0 MPX-4_MAP_2  U7 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP7_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61DC MPX-4_MAP  U6 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP6_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61D8 MPX-4_MAP_2  U5 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP5_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61D4 MPX-4_MAP  U4 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP4_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61D0 MPX-4_MAP_2  U3 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP3_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B61C6 MPX-4_MAP  U2 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP2_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9B60EB D4-SMB  D12 DIODE {Lib=DIODE}
+  (    1 N-000011 )
+  (    2 MAP12_1 )
+ )
+ ( 4B9B5DE9 SM0805-C1  C1 .02uf {Lib=C}
+  (    1 +5v_1 )
+  (    2 GND )
+ )
+ ( 4B9B5DBD MPX-4_MAP_2  U1 MPX4_MAP {Lib=MPX4_MAP}
+  (    1 MAP1_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+  (    4  ? )
+  (    5  ? )
+  (    6  ? )
+ )
+ ( 4B9A0AC9 R4-SM0805  R2 604k {Lib=R}
+  (    1 GND )
+  (    2 OP+_1 )
+ )
+ ( 4B9A07EA R4-SM0805  R1 383k {Lib=R}
+  (    1 +10v_1 )
+  (    2 N-000011 )
+ )
+ ( 4B9A06BB SM0805-C1  C30 22uf {Lib=C}
+  (    1 +5v_1 )
+  (    2 GND )
+ )
+ ( 4B9A06B0 SM0805-C1  C27 1uf {Lib=C}
+  (    1 VBAT_1 )
+  (    2 GND )
+ )
+ ( 4B9A057C TO220_VERT  U15 78L05 {Lib=78L05}
+  (    1 VBAT_1 )
+  (    2 GND )
+  (    3 +5v_1 )
+ )
+ ( 4B9A0518 8DIP300  U14 TL082CN {Lib=LM393}
+  (    1 OP-_1 )
+  (    2 OP-_1 )
+  (    3 OP+_1 )
+  (    4 GND )
+  (    8 +10v_1 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C8
+ SM*
+ C?
+ C1-1
+$endlist
+$component C13
+ SM*
+ C?
+ C1-1
+$endlist
+$component C26
+ SM*
+ C?
+ C1-1
+$endlist
+$component C24
+ SM*
+ C?
+ C1-1
+$endlist
+$component C22
+ SM*
+ C?
+ C1-1
+$endlist
+$component C20
+ SM*
+ C?
+ C1-1
+$endlist
+$component C18
+ SM*
+ C?
+ C1-1
+$endlist
+$component C16
+ SM*
+ C?
+ C1-1
+$endlist
+$component C14
+ SM*
+ C?
+ C1-1
+$endlist
+$component C12
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C2
+ SM*
+ C?
+ C1-1
+$endlist
+$component C25
+ SM*
+ C?
+ C1-1
+$endlist
+$component C21
+ SM*
+ C?
+ C1-1
+$endlist
+$component C17
+ SM*
+ C?
+ C1-1
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ D?
+ S*
+$endlist
+$component D2
+ D?
+ S*
+$endlist
+$component D3
+ D?
+ S*
+$endlist
+$component D4
+ D?
+ S*
+$endlist
+$component D5
+ D?
+ S*
+$endlist
+$component D6
+ D?
+ S*
+$endlist
+$component D7
+ D?
+ S*
+$endlist
+$component D8
+ D?
+ S*
+$endlist
+$component D9
+ D?
+ S*
+$endlist
+$component D10
+ D?
+ S*
+$endlist
+$component D11
+ D?
+ S*
+$endlist
+$component D13
+ D?
+ S*
+$endlist
+$component C28
+ SM*
+ C?
+ C1-1
+$endlist
+$component C29
+ SM*
+ C?
+ C1-1
+$endlist
+$component C33
+ SM*
+ C?
+ C1-1
+$endlist
+$component C32
+ SM*
+ C?
+ C1-1
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C31
+ SM*
+ C?
+ C1-1
+$endlist
+$component D12
+ D?
+ S*
+$endlist
+$component C1
+ SM*
+ C?
+ C1-1
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+$endlist
+$component C30
+ SM*
+ C?
+ C1-1
+$endlist
+$component C27
+ SM*
+ C?
+ C1-1
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 2 "OP-_1"
+ U17 1
+ U17 2
+ P1 2
+ R3 2
+ C31 1
+ U14 1
+ U14 2
+Net 3 "OP+_1"
+ U17 3
+ D13 2
+ R2 2
+ U14 3
+Net 4 "GND"
+ U17 4
+ C8 2
+ C13 2
+ C26 2
+ C24 2
+ C22 2
+ C20 2
+ C18 2
+ C16 2
+ C14 2
+ C12 2
+ C10 2
+ C4 2
+ C6 2
+ C2 2
+ C25 2
+ C21 2
+ C17 2
+ C9 2
+ C5 2
+ C28 2
+ C29 2
+ U16 1
+ P1 3
+ R3 1
+ C31 2
+ U13 2
+ U12 2
+ U11 2
+ U10 2
+ U9 2
+ U8 2
+ U7 2
+ U6 2
+ U5 2
+ U4 2
+ U3 2
+ U2 2
+ C1 2
+ U1 2
+ R2 1
+ C30 2
+ C27 2
+ U15 2
+ U14 4
+Net 5 "MAPB_1"
+ C26 1
+ P1 1
+ U13 1
+Net 6 ""
+ C33 1
+ C32 1
+ U16 5
+Net 7 ""
+ C33 2
+ C32 2
+ U16 3
+Net 8 "+5v_1"
+ P3 1
+ P2 2
+ C13 1
+ C25 1
+ C21 1
+ C17 1
+ C9 1
+ C5 1
+ U16 4
+ P1 5
+ U13 3
+ U12 3
+ U11 3
+ U10 3
+ U9 3
+ U8 3
+ U7 3
+ U6 3
+ U5 3
+ U4 3
+ U3 3
+ U2 3
+ C1 1
+ U1 3
+ C30 1
+ U15 3
+Net 9 "+10v_1"
+ P2 1
+ U17 8
+ C28 1
+ C29 1
+ U16 2
+ R1 1
+ U14 8
+Net 11 ""
+ D1 1
+ D2 1
+ D3 1
+ D4 1
+ D5 1
+ D6 1
+ D7 1
+ D8 1
+ D9 1
+ D10 1
+ D11 1
+ D13 1
+ D12 1
+ R1 2
+Net 15 "MAP12_1"
+ C24 1
+ U12 1
+ D12 2
+Net 19 "MAP11_1"
+ C22 1
+ D11 2
+ U11 1
+Net 23 "MAP10_1"
+ C20 1
+ D10 2
+ U10 1
+Net 27 "MAP9_1"
+ C18 1
+ D9 2
+ U9 1
+Net 30 "MAP8_1"
+ C16 1
+ D8 2
+ U8 1
+Net 34 "MAP7_1"
+ C14 1
+ D7 2
+ U7 1
+Net 38 "MAP6_1"
+ C12 1
+ D6 2
+ U6 1
+Net 42 "MAP5_1"
+ C10 1
+ D5 2
+ U5 1
+Net 46 "MAP4_1"
+ C8 1
+ D4 2
+ U4 1
+Net 50 "MAP3_1"
+ C6 1
+ D3 2
+ U3 1
+Net 54 "MAP2_1"
+ C4 1
+ D2 2
+ U2 1
+Net 58 "MAP1_1"
+ C2 1
+ D1 2
+ U1 1
+Net 62 "VBAT_1"
+ P3 2
+ P1 4
+ C27 1
+ U15 1
+}
+#End

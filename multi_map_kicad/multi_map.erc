@@ -1,0 +1,8 @@
+ERC control (14/3/2010-01:54:12)
+
+***** Sheet 1 (Root)
+ERC: Warning Pin passive Unconnected (X= 3.700 inches, Y= 0.950 inches
+ERC: Warning Pin power_in not driven (Net 7) (X= 8.900 inches, Y= 0.800 inches
+ERC: Warning Pin power_in not driven (Net 5) (X= 9.950 inches, Y= 1.750 inches
+
+ >> Errors ERC: 3
