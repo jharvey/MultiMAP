@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name MPX-4_MAP)(type Legacy)(uri ${KIPRJMOD}/MPX-4_MAP.lib)(options "")(descr ""))
+  (lib (name MAX1682)(type Legacy)(uri ${KIPRJMOD}/MAX1682.lib)(options "")(descr ""))
+)
